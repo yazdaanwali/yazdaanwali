@@ -19,16 +19,22 @@ I'm passionate about robotics, automation, embedded systems, and software develo
 - Strengthen my research profile
 - Prepare for international Master's scholarships
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-- C/C++
-- Python
-- MATLAB
-- Arduino
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
+### 💻 Programming
+C/C++ • Python • Embedded C
+
+### ⚡ Electronics & Embedded
+Arduino • ESP32 • STM32 • Embedded Systems
+
+### 🔬 Engineering & Simulation
+MATLAB • Simulink • LTspice • OMNeT++ • VEINS • SUMO
+
+### 🌐 Web Development
+HTML • CSS • JavaScript • React
+
+### 🔧 Tools
+Git • GitHub • VS Code • Arduino IDE
 
 ## 📫 Connect With Me
 
