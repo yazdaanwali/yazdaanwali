@@ -35,6 +35,16 @@ HTML • CSS • JavaScript • React
 
 ### 🔧 Tools
 Git • GitHub • VS Code • Arduino IDE
+## 🚀 Experience & Contributions
+
+### 🌐 TEDx Integral University — Web Development Team
+
+- Contributed to the official TEDx Integral University website
+- Worked with React, CSS and JavaScript
+- Created and modified website components
+- Worked with Git/GitHub workflow
+- Created branches and pull requests
+- Collaborated with team members through GitHub
 
 ## 📫 Connect With Me
 
